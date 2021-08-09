@@ -1,0 +1,85 @@
+body{
+    background-color: E5E5E5;
+    height: 2500px;
+}
+.header{
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    background-color:rgba(255, 212, 118,0.6);
+}
+.header-logo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    margin-left: 3%;
+    color: rgb(116, 85, 2);
+}
+.main{
+    position: fixed;
+}
+.main p{
+    position:absolute;
+    text-align: left;
+    margin-left: 11%;
+    margin-top: 25%;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    color:rgb(56, 52, 48);
+}
+.name{
+    position: absolute;
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 55px;
+    color: 4B2900;
+}
+.image{
+    margin: auto;
+    height: 1000px;
+    width: 100%;
+    opacity: 0.6;
+}
+h3{
+    font-size: 48px;
+}
+.food{
+    text-align: left;
+    padding-top: 55%;
+    margin-left: 60%;
+    font-family: Yu Gothic;
+    font-size: 30px;
+}
+.font1{
+    margin-left: -5%;
+}
+.music{
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 60%;
+    font-family: Yu Gothic;
+    font-size: 30px;
+}
+.font2{
+    margin-left: -5%;
+}
+.span{
+    margin-left: 10%;
+}
+.things{
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 60%;
+    font-family: Yu Gothic;
+    font-size: 30px;
+}
+.font3{
+    margin-left: -5%;
+}
+.coments{
+    margin-top: 10%;
+    margin-left: 60%;
+    font-family: Yu Gothic;
+    font-size: 20px;
+}
